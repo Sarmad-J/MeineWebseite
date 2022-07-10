@@ -1,0 +1,27 @@
+body 
+{
+	text-align: center;
+	margin-top: 100px;
+	background-color: beige;
+}
+
+p
+{
+	margin: 40px;
+	display: flex;
+	text-align: left;
+	font-size: 30px;
+}
+
+.container
+{
+	margin: 70px;
+	display: flex;
+      justify-content: center;
+}
+
+h1
+{
+	font-size: 50px;
+	text-decoration: underline;
+}
